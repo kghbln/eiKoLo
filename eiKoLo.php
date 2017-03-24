@@ -7,7 +7,7 @@
  * mailto:kontakt@eikolo.net
  * https://www.eikolo.net/
  *
- * Copyright (C) 2010 - 2016
+ * Copyright (C) 2010 - 2017
  *
  * This program is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -20,10 +20,10 @@ $wgExtensionCredits['other'][] = array(
 	'name' => 'Zusammenstellung „eiKoLo“',
 	'author' => array(
 		'Karsten Hoffmeyer'
-		),
+	),
 	'url' => 'https://www.eikolo.net/',
 	'descriptionmsg' => 'eikolo-desc',
-	'version' => '5.1.2',
+	'version' => '5.1.3',
 	'license-name' => 'C'
 );
 
