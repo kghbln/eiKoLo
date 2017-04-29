@@ -23,7 +23,7 @@ $wgExtensionCredits['other'][] = array(
 	),
 	'url' => 'https://www.eikolo.net/',
 	'descriptionmsg' => 'eikolo-desc',
-	'version' => '5.1.3',
+	'version' => '5.1.4',
 	'license-name' => 'C'
 );
 
