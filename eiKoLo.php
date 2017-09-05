@@ -11,7 +11,7 @@
  *
  * This program is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. (GPL-2.0)
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. (C)
  */
 
 // Display extension properties on MediaWiki.
@@ -23,7 +23,7 @@ $wgExtensionCredits['other'][] = array(
 	),
 	'url' => 'https://www.eikolo.net/',
 	'descriptionmsg' => 'eikolo-desc',
-	'version' => '5.1.4',
+	'version' => '5.1.5',
 	'license-name' => 'C'
 );
 
