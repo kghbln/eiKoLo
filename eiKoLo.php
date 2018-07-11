@@ -7,7 +7,7 @@
  * mailto:kontakt@eikolo.net
  * https://www.eikolo.net/
  *
- * Copyright (C) 2010 - 2017
+ * Copyright (C) 2010 - 2018
  *
  * This program is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -23,7 +23,7 @@ $wgExtensionCredits['other'][] = array(
 	),
 	'url' => 'https://www.eikolo.net/',
 	'descriptionmsg' => 'eikolo-desc',
-	'version' => '5.1.5',
+	'version' => '5.1.6',
 	'license-name' => 'C'
 );
 
