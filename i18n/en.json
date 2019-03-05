@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kghbln"
+			"Karsten Hoffmeyer"
 		]
 	},
+	"eikolo-name": "eiKoLo",
 	"eikolo-desc": "Your application for fundraising and social marketing"
 }
