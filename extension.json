@@ -6,12 +6,12 @@
 	],
 	"license-name": "C",
 	"url": "https://www.eikolo.net/",
-        "namemsg": "eikolo-name"
+        "namemsg": "eikolo-name",
 	"descriptionmsg": "eikolo-desc",
 	"type": "other",
         "requires": {
 		"MediaWiki": ">= 1.31"
-        }
+        },
 	"MessagesDirs": {
 		"EiKoLo": [
 			"i18n"
