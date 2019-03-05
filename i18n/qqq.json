@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kghbln"
+			"Karsten Hoffmeyer"
 		]
 	},
-	"eikolo-desc": "Description of the 'eiKoLo' extension. See https://www.eikolo.net"
+	"eikolo-name": "Name of the 'eiKoLo' extension",
+	"eikolo-desc": "Description of the 'eiKoLo' extension. See https://www.eikolo.net/"
 }
