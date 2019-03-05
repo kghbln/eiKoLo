@@ -1,0 +1,21 @@
+{
+	"name": "EiKoLo",
+	"version": "7.0.0",
+	"author": [
+		"Karsten Hoffmeyer"
+	],
+	"license-name": "C",
+	"url": "https://www.eikolo.net/",
+        "namemsg": "eikolo-name",
+	"descriptionmsg": "eikolo-desc",
+	"type": "other",
+        "requires": {
+		"MediaWiki": ">= 1.31"
+        },
+	"MessagesDirs": {
+		"EiKoLo": [
+			"i18n"
+		]
+	},
+	"manifest_version": 2
+}
